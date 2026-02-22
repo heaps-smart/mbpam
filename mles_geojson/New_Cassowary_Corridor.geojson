@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "New_Cassowary_Corridor",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "id": "New Cassowary Corridor" }, "geometry": { "type": "LineString", "coordinates": [ [ 146.09133817024221, -17.877494840500905 ], [ 146.093630017776348, -17.877743143097717 ] ] } },
+{ "type": "Feature", "properties": { "fid": 2, "id": "New Cassowary Corridor" }, "geometry": { "type": "LineString", "coordinates": [ [ 146.0910239693915, -17.875617499933615 ], [ 146.093707563685314, -17.875913249204128 ] ] } },
+{ "type": "Feature", "properties": { "fid": 3, "id": "new cassowary corridor" }, "geometry": { "type": "LineString", "coordinates": [ [ 146.098516554160398, -17.828503991198573 ], [ 146.098890283771965, -17.829802293219203 ], [ 146.098322967489878, -17.830702909474574 ], [ 146.096888223576457, -17.83168692509733 ], [ 146.096527724996747, -17.832884892447513 ], [ 146.095406636996785, -17.833738155447499 ], [ 146.095420275386175, -17.835463082250651 ], [ 146.09496660715169, -17.836302077218331 ], [ 146.093223347653719, -17.837526389673705 ] ] } },
+{ "type": "Feature", "properties": { "fid": 4, "id": "New Cassowary Corridor" }, "geometry": { "type": "LineString", "coordinates": [ [ 146.096974807388477, -17.821645936481563 ], [ 146.09293749999668, -17.825812499998285 ], [ 146.088517592608298, -17.829488527639501 ] ] } }
+]
+}

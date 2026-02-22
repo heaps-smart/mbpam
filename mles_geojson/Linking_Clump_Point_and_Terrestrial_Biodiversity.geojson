@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Linking_Clump_Point_and_Terrestrial_Biodiversity",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 2, "name": "connectivity", "description": "np and foreshore" }, "geometry": { "type": "LineString", "coordinates": [ [ 146.108533173191717, -17.862655160274695 ], [ 146.110239117071444, -17.863283140026233 ] ] } },
+{ "type": "Feature", "properties": { "fid": 3, "name": null, "description": "cassowary corridor" }, "geometry": { "type": "LineString", "coordinates": [ [ 146.096821528513971, -17.862153557593178 ], [ 146.105632543996762, -17.862878798446676 ], [ 146.107647622571761, -17.862879167099539 ], [ 146.10853317319004, -17.862655160273828 ], [ 146.110239117069796, -17.863283140025359 ], [ 146.116398713996716, -17.85767131244685 ] ] } },
+{ "type": "Feature", "properties": { "fid": 4, "name": null, "description": "corridor" }, "geometry": { "type": "LineString", "coordinates": [ [ 146.116398713995039, -17.857671312445987 ], [ 146.113858028994997, -17.858121804445943 ], [ 146.111320371849018, -17.85569626216428 ], [ 146.106604203996739, -17.854727029446885 ] ] } }
+]
+}

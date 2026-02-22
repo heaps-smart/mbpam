@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+"name": "Significant_Trees",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "id": "Arenga Palm" }, "geometry": { "type": "Point", "coordinates": [ 146.097808949996761, -17.831216081447565 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "id": "Arenga Palm" }, "geometry": { "type": "Point", "coordinates": [ 146.096731854721099, -17.831395826976205 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "id": "Arenga Palm" }, "geometry": { "type": "Point", "coordinates": [ 146.095574937996702, -17.834121770447471 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "id": "Arenga Palm" }, "geometry": { "type": "Point", "coordinates": [ 146.095555160513726, -17.833970245541558 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "id": "Arenga Palm" }, "geometry": { "type": "Point", "coordinates": [ 146.098308583034452, -17.83179281902316 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "id": "Arenga Palm" }, "geometry": { "type": "Point", "coordinates": [ 146.100258845167531, -17.828060102091751 ] } },
+{ "type": "Feature", "properties": { "fid": 7, "id": "Arenga Palm" }, "geometry": { "type": "Point", "coordinates": [ 146.096751076246562, -17.830811354483533 ] } },
+{ "type": "Feature", "properties": { "fid": 8, "id": "Arenga Palm" }, "geometry": { "type": "Point", "coordinates": [ 146.094118155996682, -17.835969335447427 ] } },
+{ "type": "Feature", "properties": { "fid": 9, "id": "Milky Pine" }, "geometry": { "type": "Point", "coordinates": [ 146.096277690996743, -17.835645138447433 ] } },
+{ "type": "Feature", "properties": { "fid": 10, "id": "Milky Pine" }, "geometry": { "type": "Point", "coordinates": [ 146.095451063210817, -17.831142400388128 ] } },
+{ "type": "Feature", "properties": { "fid": 11, "id": "Milky Pine" }, "geometry": { "type": "Point", "coordinates": [ 146.094173198913182, -17.831611560466065 ] } },
+{ "type": "Feature", "properties": { "fid": 12, "id": "Milky Pine" }, "geometry": { "type": "Point", "coordinates": [ 146.099984926780735, -17.834913095070519 ] } },
+{ "type": "Feature", "properties": { "fid": 13, "id": "Milky Pine" }, "geometry": { "type": "Point", "coordinates": [ 146.101945366313657, -17.865640023492016 ] } },
+{ "type": "Feature", "properties": { "fid": 14, "id": "LHVEA01.1 Klienhovia hospita L." }, "geometry": { "type": "Point", "coordinates": [ 146.117194444368607, -17.855583333199267 ] } },
+{ "type": "Feature", "properties": { "fid": 15, "id": "LHVEA01.2 Klienhovia hospita L." }, "geometry": { "type": "Point", "coordinates": [ 146.102972221990996, -17.87122222162321 ] } },
+{ "type": "Feature", "properties": { "fid": 16, "id": "LHVEA01.4 Klienhovia hospita L." }, "geometry": { "type": "Point", "coordinates": [ 146.103388888686851, -17.871249999882604 ] } },
+{ "type": "Feature", "properties": { "fid": 17, "id": "LHVEA01.5 Klienhovia hospita L." }, "geometry": { "type": "Point", "coordinates": [ 146.098444443956453, -17.873250000382207 ] } },
+{ "type": "Feature", "properties": { "fid": 18, "id": "LHVEA01.6 Kleinhovia Hospita L" }, "geometry": { "type": "Point", "coordinates": [ 146.084433000183424, -17.915126999806215 ] } },
+{ "type": "Feature", "properties": { "fid": 19, "id": "LHVEA01.7 Kleinhovia Hospita L" }, "geometry": { "type": "Point", "coordinates": [ 146.115277999880334, -17.858332999563292 ] } },
+{ "type": "Feature", "properties": { "fid": 20, "id": "LHVEA01.8 Kleinhovia Hospita L" }, "geometry": { "type": "Point", "coordinates": [ 146.10960700006359, -17.864979000275646 ] } },
+{ "type": "Feature", "properties": { "fid": 21, "id": "LHVEA01.9 Kleinhovia Hospita L" }, "geometry": { "type": "Point", "coordinates": [ 146.100000000400229, -17.850000000194893 ] } },
+{ "type": "Feature", "properties": { "fid": 22, "id": "LHVEA01.10 Kleinhovia Hospita L" }, "geometry": { "type": "Point", "coordinates": [ 146.113888889061542, -17.858333333211768 ] } },
+{ "type": "Feature", "properties": { "fid": 23, "id": "LHVEA01.11 Kleinhovia hospita L" }, "geometry": { "type": "Point", "coordinates": [ 146.083332999818651, -17.850000000194889 ] } },
+{ "type": "Feature", "properties": { "fid": 24, "id": "LHVEA01.13 Kleinhovia Hospita L" }, "geometry": { "type": "Point", "coordinates": [ 146.083332999818623, -17.833332999613216 ] } },
+{ "type": "Feature", "properties": { "fid": 25, "id": "LHVEA01.3 Klienhovia hospita L." }, "geometry": { "type": "Point", "coordinates": [ 146.108638888874168, -17.862666667028066 ] } }
+]
+}
